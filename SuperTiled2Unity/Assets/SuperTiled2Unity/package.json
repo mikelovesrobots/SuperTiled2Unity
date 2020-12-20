@@ -1,0 +1,11 @@
+{
+  "name": "com.thepelkus.supertiled2unityfork",
+  "displayName": "SuperTiled2Unity Fork",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "Fork of SuperTiled2Unity for use with UPM",
+  "keywords": [
+    "Tiled"
+  ],
+  "category": "Unity"
+}
